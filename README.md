@@ -1,2 +1,2 @@
 # Prevel
-Travel agency platform 
+Travel agency platform
